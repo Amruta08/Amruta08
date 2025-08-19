@@ -2,7 +2,7 @@
 	<img src="welcome-header.gif" alt="welcome to my github profile">
 	<br>
 	<br>
-	<h3 align="center">✨ Yet another struggling programmer, solving one bug at a time ✨</h3>
+	<h3 align="center">🐞 Yet another struggling programmer, fixing one bug at a time!!! 💢</h3>
 	<img src="cat-typing.gif">
 </div>
 
